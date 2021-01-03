@@ -1,0 +1,72 @@
+var clase = {
+    nombre,
+    edad,
+    ciudad
+    //saludo = 
+}
+clase.assign alumno1 = {this.nombre = emanuel, this.edad = 25, this.ciudad = caba}
+
+clase.prototype.saludo = function(){
+    return ('Hola, ' + this.nombre + '!')
+}
+
+object.assign ==> agregar objeto a una clase
+let nombreObjeto = new clase (valores)
+var nombreObjeto = object.create ({}) = var nombre = {}
+
+var clase = {
+    nombre = {alumno, profesor},
+    edad,
+    ciudad,
+    saludo = function(){
+    return ('Hola, ' + this.nombre + '!')
+    }    
+}
+
+var clase2 = {
+    clase.call (this),
+    desayuno,
+    merienda
+}
+
+var toni = new clase2 ('toni', 25, 'tucuman', 'cafe con leche', 'tostadas')
+
+
+//////////////////////////////////////////////////////////////////////////////
+
+
+
+var bipedo(pies, dedos, cabezas) = {
+	pies,
+	dedos,
+	cabezas,
+	cuerpo = {
+		torsos,
+		musculos,
+	}
+	//saludo = function(){
+        console.log ()
+        }
+}
+
+var persona (pies, dedos, cabezas, nombre, apellido) = {
+	bipedo.call(this.pies, this.dedos, this.cabezas)
+	//pies
+	//dedos
+	//cabezas
+	nombre,
+	apellido,
+	asdklnassdk;sa
+}
+
+let ema = new persona(2, 10, 2, 'juan', 'perez');
+
+//ema es un objeto del tipo persona
+//que hereda tambien las propiedades de la clase bipedo
+
+console.log(ema.nombre);
+//juan
+
+console.log (ema.dedos);
+//10
+
